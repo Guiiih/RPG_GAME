@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bptyo3conon62"]
+
+[ext_resource type="Script" uid="uid://ck02f7u3fmtap" path="res://scripts/ui/DialogueBoxManager.gd" id="1_2c88n"]
+
+[node name="DialogueBox" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_2c88n")

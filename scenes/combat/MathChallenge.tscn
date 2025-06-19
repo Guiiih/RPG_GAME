@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bd36b8ecg50ik"]
+
+[ext_resource type="Script" uid="uid://8pmomjwk36um" path="res://scripts/systems/ChallengeManager.gd" id="1_khuc6"]
+
+[node name="MathChallenge_tscn" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_khuc6")

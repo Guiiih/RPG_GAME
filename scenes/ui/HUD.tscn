@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgsnik68rahf3"]
+
+[ext_resource type="Script" uid="uid://by8jqpbq7v4km" path="res://scripts/ui/HUDManager.gd" id="1_kw0id"]
+
+[node name="Hud" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_kw0id")
